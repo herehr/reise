@@ -1,0 +1,11 @@
+{
+  "baseCountry": "AT",
+  "inland": {
+    "country": "AT",
+    "dailyRate": 30,
+    "minHours": 3,
+    "aliquotDivisor": 12,
+    "maxPer24h": 30,
+    "mode": "24h"
+  }
+}

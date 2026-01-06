@@ -1,0 +1,33 @@
+{
+  "baseCountry": "AT",
+  "countries": {
+    "DE": {
+      "label": "Deutschland",
+      "default": { "day": 35.3, "night": 27.9, "diff": null },
+      "variants": {
+        "Grenzort": { "day": 30.7, "night": 18.1, "diff": null }
+      }
+    },
+    "CZ": {
+      "label": "Tschechien",
+      "default": { "day": 31, "night": 24.4, "diff": null },
+      "variants": {
+        "Grenzorte": { "day": 27.9, "night": 15.9, "diff": null }
+      }
+    },
+    "SK": {
+      "label": "Slowakei",
+      "default": { "day": 27.9, "night": 15.9, "diff": null },
+      "variants": {
+        "Bratislava": { "day": 31, "night": 24.4, "diff": null }
+      }
+    },
+    "CH": {
+      "label": "Schweiz",
+      "default": { "day": 36.8, "night": 32.7, "diff": null },
+      "variants": {
+        "Grenzorte": { "day": 30.7, "night": 18.1, "diff": null }
+      }
+    }
+  }
+}
